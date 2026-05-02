@@ -1,0 +1,4 @@
+com\studentcourse\service\CourseServiceTest.class
+com\studentcourse\service\StudentServiceTest.class
+com\studentcourse\repository\StudentRepositoryTest.class
+com\studentcourse\repository\CourseRepositoryTest.class

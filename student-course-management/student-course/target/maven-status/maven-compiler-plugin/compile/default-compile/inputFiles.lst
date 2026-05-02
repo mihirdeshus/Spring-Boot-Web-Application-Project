@@ -1,0 +1,15 @@
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\exception\DuplicateEmailException.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\repository\StudentRepository.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\StudentCourseApplication.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\repository\CourseRepository.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\dto\StudentCourseDTO.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\service\CourseService.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\controller\HomeController.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\controller\StudentController.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\entity\Student.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\service\StudentService.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\exception\ResourceNotFoundException.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\controller\CourseController.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\exception\GlobalExceptionHandler.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\config\DataInitializer.java
+C:\Users\MIHIR DESHPANDE\Desktop\student-course-management\student-course\src\main\java\com\studentcourse\entity\Course.java
